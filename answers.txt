@@ -6,4 +6,4 @@ git fetch retrieves new information from the remote repository
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+git is a version control system whereas github is an online service for hosting git repositories
